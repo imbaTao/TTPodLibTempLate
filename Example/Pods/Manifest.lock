@@ -1,0 +1,18 @@
+PODS:
+  - TTPodLibTempLate (0.1.0):
+    - TTPodLibTempLate/Core (= 0.1.0)
+  - TTPodLibTempLate/Core (0.1.0)
+
+DEPENDENCIES:
+  - TTPodLibTempLate (from `../`)
+
+EXTERNAL SOURCES:
+  TTPodLibTempLate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TTPodLibTempLate: 3339b9fb9cc6749b4cd0064a435db6d7e90b56b0
+
+PODFILE CHECKSUM: 6689ccc2b3004dac71f28dc137941c0a28e6b7d7
+
+COCOAPODS: 1.11.3

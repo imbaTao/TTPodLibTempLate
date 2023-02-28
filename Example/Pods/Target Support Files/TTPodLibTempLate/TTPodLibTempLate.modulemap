@@ -1,0 +1,6 @@
+framework module TTPodLibTempLate {
+  umbrella header "TTPodLibTempLate-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_TTPodLibTempLate_Example {
+  umbrella header "Pods-TTPodLibTempLate_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

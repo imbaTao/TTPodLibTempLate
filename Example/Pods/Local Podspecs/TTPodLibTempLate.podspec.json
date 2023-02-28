@@ -1,0 +1,29 @@
+{
+  "name": "TTPodLibTempLate",
+  "version": "0.1.0",
+  "summary": "通用Lib创建模板",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/imbaTao/TTPodLibTempLate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "imbatao@outlook.com": "imbatao@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/imbaTao/TTPodLibTempLate.git",
+    "tag": "0.1.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "Core/Core/**/*"
+    }
+  ],
+  "swift_version": "5.0"
+}
